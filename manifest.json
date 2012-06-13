@@ -1,0 +1,10 @@
+{
+  "name": "No Feed",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Hide the Facebook News Feed",
+  "permissions": [
+    "http://www.facebook.com/",
+    "https://www.facebook.com/"
+  ]
+}
