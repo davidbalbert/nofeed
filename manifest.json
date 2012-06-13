@@ -9,7 +9,8 @@
         "http://www.facebook.com/",
         "https://www.facebook.com/"
       ],
-      "js": ["nofeed.js"]
+      "js": ["nofeed.js"],
+      "run_at": "document_end"
     }
   ]
 }
