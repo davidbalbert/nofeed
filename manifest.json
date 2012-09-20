@@ -12,7 +12,9 @@
     {
       "matches": [
         "http://www.facebook.com/",
-        "https://www.facebook.com/"
+        "https://www.facebook.com/",
+        "http://www.facebook.com/home.php",
+        "https://www.facebook.com/home.php"
       ],
       "js": ["nofeed.js"],
       "run_at": "document_end"
