@@ -1,1 +1,1 @@
-document.getElementsByClassName("UIStream")[0].setAttribute("style", "visibility: hidden")
+document.getElementById("contentArea").setAttribute("style", "visibility: hidden");
